@@ -13,4 +13,4 @@ If you spot any spllng msteaks 🥩, [please see if it is already known or aknow
 When the project is completed, you will need to download a .jar file to add to the plugins folder of the server. This will be server side only so users do not need to install it. Then in the discord server youd have to create a discord bot using the Discord deveoper portal and attach it to the plugin in the config files to the server plugin. Once properly set up, the people in-game should be able to chat with people on discord and vise versa.
 ***
 #### Liscencing 
-[GNU General Public Liscence v3.0](https://github.com/caiton1/cs305_mod5/blob/main/LICENSE.md)
+[GNU General Public Liscence v3.0](https://github.com/caiton1/cs305_mod5/blob/main/LICENSE)
