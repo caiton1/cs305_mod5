@@ -3,6 +3,9 @@ This project will be using java and discord APIs to make messages on a discord c
 ***
 ## How to contribute
 If you spot any spllng msteaks 🥩, [please see if it is already known or aknowledged](https://github.com/caiton1/cs305_mod5/issues "Issues"). If you have a fix you would like to add, [create a pull request.](https://github.com/caiton1/cs305_mod5/pulls "Pull request").
+
+Daniel Bird - djb565nau - creating a module that will transfer the discord messages to the minecraft in-game chat.
+
 ***
 ## Requirnments
 - Administrative access to a discord server to add a bot too
